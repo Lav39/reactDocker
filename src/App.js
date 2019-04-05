@@ -9,7 +9,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Welcome to docker session
+            Automate.io
+                       Welcome to docker session
           </p>
           <a
             className="App-link"
@@ -20,7 +21,7 @@ class App extends Component {
             Learn React
           </a>
         </header>
-      </div>
+      </div >
     );
   }
 }
